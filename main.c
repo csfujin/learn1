@@ -6,6 +6,7 @@ int main () {
 	char name[30];
 
 	printf("Hello World!\n");
+	printf("this is a test change\n");
 	printf("Type your name: ");
 	scanf("%s", &name);
 
